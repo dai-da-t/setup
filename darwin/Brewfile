@@ -1,0 +1,62 @@
+cask_args appdir: "/Applications"
+tap "homebrew/cask-fonts"
+
+brew "awscli"
+brew "ffmpeg"
+brew "git"
+brew "gnuplot"
+brew "imagemagick"
+brew "mas"
+brew "pandoc"
+brew "python"
+brew "pyenv"
+brew "reattach-to-user-namespace"
+brew "tmux"
+brew "vim"
+
+cask "1password"
+cask "1password-cli"
+cask "alfred"
+cask "appcleaner"
+cask "bettertouchtool"
+cask "blackhole"
+cask "calibre"
+cask "clipy"
+cask "discord"
+cask "docker"
+cask "dropbox"
+cask "epic-games"
+cask "firealpaca"
+cask "font-hackgen"
+cask "font-hackgen-nerd"
+cask "google-chrome"
+cask "google-japanese-ime"
+cask "imageoptim"
+cask "intellij-idea"
+cask "iterm2"
+cask "karabiner-elements"
+cask "keka"
+cask "mactex"
+cask "microsoft-office"
+cask "pycharm"
+cask "scroll-reverser"
+cask "vivaldi"
+cask "visual-studio-code"
+cask "vlc"
+cask "webex-meetings"
+cask "zoom"
+cask "zotero"
+
+mas "Amphetamine", id: 937984704
+mas "BetterSnapTool", id: 417375580
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "LadioCast", id: 411213048
+mas "LINE", id: 539883307
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "PopClip", id: 445189367
+mas "Skitch", id: 425955336
+mas "The Unarchiver", id: 425424353
+mas "XCode", id: 497799835
